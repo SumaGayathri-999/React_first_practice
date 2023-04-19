@@ -1,0 +1,8 @@
+accessing previous prop states----https://blog.logrocket.com/accessing-previous-props-state-react-hooks/
+does hootstate hook update immesdiately----https://www.geeksforgeeks.org/does-react-usestate-hook-update-immediately/?ref=rp
+https://www.geeksforgeeks.org/reactjs-usestate-hook/
+
+
+
+for the portofolio reference:" https://k-koushal.github.io/personal.webpage/ "
+for the github profile reference:  https://raw.githubusercontent.com/Aakashdeveloper/Aakashdeveloper/master/README.md

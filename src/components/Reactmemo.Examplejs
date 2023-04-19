@@ -1,0 +1,17 @@
+import React,{ useState } from 'react';
+
+function ReactmemoExample(){
+    const[countstate,setCountState]=useState(0);
+
+    function HandleClick(){
+        setCountState(count+1);
+    }
+        
+    return(
+        <div>
+            count-{countstate}
+            <Button onClickhandler={HandleClick}></Button>
+            <Compmemo />
+        </div>
+    )
+}

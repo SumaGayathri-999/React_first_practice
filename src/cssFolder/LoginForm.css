@@ -1,0 +1,33 @@
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:aliceblue;
+    display:flex;
+    align-items:center; 
+    height:calc(100vh - 1px);
+    justify-content: center;
+   
+}
+.card{
+    background-color:white;
+    width:80%;
+    padding:50px;
+    border:5px solid rgb(166, 166, 252);
+    border-radius:1.5rem;
+}
+p{
+    color:red;
+}
+.loginbutton{
+    width:70px;
+    height:40px;
+    margin-top:50px;
+     margin-left:35px;  
+     background-color: rgb(19, 61, 247); 
+     border-radius: 1rem;
+    
+}
